@@ -1,139 +1,92 @@
-<div align="center">
+# MD Sajid Rahman
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=MD%20Sajid%20Rahman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%2FML%20%26%20LLM%20Developer%20%7C%20Python%20Learner&descAlignY=58&descSize=18" />
+### Final Semester CSE Student | Aspiring AI/ML & LLM Developer
 
-</div>
+I am currently learning Python, Machine Learning, Data Science, and LLM-based application development by solving real-life problems and building beginner-friendly projects.
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Final+Semester+CSE+Student;Learning+Python%2C+AI%2FML+and+LLM+Applications;Building+Real-Life+Problem-Solving+Projects;Sharing+my+Learning+Journey+for+Beginners)](https://git.io/typing-svg)
-
-</div>
+My goal is to build a strong foundation in Python and gradually move toward AI/ML and LLM applications through project-based learning.
 
 ---
 
-## 👋 About Me
+## About Me
 
-I am **MD Sajid Rahman**, a final semester CSE student with a strong interest in **Artificial Intelligence, Machine Learning, Data Science, and LLM-based applications**.
-
-I am currently learning Python from the basics and building real-life problem-solving projects to strengthen my foundation step by step.
-
-My goal is to become an **AI/ML Engineer or LLM Application Developer** by learning through practical projects, consistent practice, and public documentation.
-
----
-
-## 🎯 Current Focus
-
-- Python Programming
-- Problem Solving
-- Data Science Basics
-- Machine Learning Fundamentals
-- LLM Applications
-- RAG Applications
-- Streamlit App Development
-- Real-Life AI/ML Mini Projects
+- Final semester CSE student
+- Interested in AI, Machine Learning, Data Science, and LLM applications
+- Currently learning Python from the basics
+- Building real-life problem-solving mini projects
+- Sharing my learning journey so other beginners can learn step by step
 
 ---
 
-## 🚀 Current Challenge
+## Current Focus
 
-### 30-Day Basic Python to AI Journey
+| Area | Learning |
+|---|---|
+| Programming | Python, Problem Solving |
+| Data | Pandas, Data Analysis Basics |
+| AI/ML | Machine Learning Fundamentals |
+| LLM | Prompt Engineering, RAG Applications |
+| Tools | Git, GitHub, VS Code, Streamlit |
 
-I am currently doing a **30-day project-based learning challenge** where I solve beginner-friendly Python problems every day and share the learning process so that other beginners can also follow along.
+---
 
-📌 Repository:  
+## 30-Day Basic Python to AI Journey
+
+I am currently doing a 30-day project-based learning challenge where I solve beginner-friendly Python problems every day.
+
+The goal of this challenge is to start from the absolute basics and gradually move toward AI/ML project thinking.
+
+Repository:
+
 [30-Day Basic Python to AI Journey](https://github.com/MdSajidRahman23/30-day-basic-python-to-ai-journey)
 
-Challenge goal:
+### Challenge Goals
 
 - Start from basic `print()` and variables
-- Solve real-life problems every day
+- Solve real-life mini problems every day
 - Learn Python step by step
 - Build GitHub consistency
-- Move gradually toward AI/ML project thinking
-- Share beginner-friendly explanations on LinkedIn
+- Share beginner-friendly explanations
+- Gradually move toward AI/ML projects
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<div align="center">
+### Currently Learning
 
-### Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### Exploring
 
-### Data, AI & App Development
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM%20Applications-1D4ED8?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG%20Applications-0F766E?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-</div>
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0F172A?style=flat-square)
+![LLM Applications](https://img.shields.io/badge/LLM%20Applications-1D4ED8?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG%20Applications-0F766E?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data%20Science-2563EB?style=flat-square)
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🧠 CodeViva AI
-
-A Python + Streamlit app that generates viva/interview questions from uploaded Python code files.
-
-🔗 [View Repository](https://github.com/MdSajidRahman23/codeviva-ai)
-
----
-
-### 🛡️ ScholarShield AI
-
-A Python + Streamlit app that checks scam risk in scholarship, internship, and job opportunity posts using rule-based NLP.
-
-🔗 [View Repository](https://github.com/MdSajidRahman23/scholarshield-ai)
+| Project | Description | Repository |
+|---|---|---|
+| CodeViva AI | Generates viva/interview questions from uploaded Python code files | [View](https://github.com/MdSajidRahman23/codeviva-ai) |
+| ScholarShield AI | Checks scam risk in scholarship, internship, and job opportunity posts | [View](https://github.com/MdSajidRahman23/scholarshield-ai) |
+| DeadlineGuardian AI | Turns messy notices and messages into action items with deadlines | [View](https://github.com/MdSajidRahman23/deadlineguardian-ai) |
+| 30-Day Python to AI Journey | Daily Python mini projects from basic concepts to AI thinking | [View](https://github.com/MdSajidRahman23/30-day-basic-python-to-ai-journey) |
 
 ---
 
-### ⏰ DeadlineGuardian AI
+## Learning Philosophy
 
-A Python + Streamlit app that turns messy notices, messages, and emails into action items with deadlines and calendar export.
-
-🔗 [View Repository](https://github.com/MdSajidRahman23/deadlineguardian-ai)
-
----
-
-### 🐍 30-Day Basic Python to AI Journey
-
-A beginner-friendly repository where I solve real-life Python mini problems every day and document my learning journey.
-
-🔗 [View Repository](https://github.com/MdSajidRahman23/30-day-basic-python-to-ai-journey)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MdSajidRahman23&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MdSajidRahman23&theme=tokyonight&hide_border=true" width="48%" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdSajidRahman23&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
----
-
-## 🌱 Learning Philosophy
-
-> I believe in learning by building.
+I believe in learning by building.
 
 Instead of only watching tutorials, I try to solve small real-life problems and document them in a beginner-friendly way.
-
-My focus is simple:
 
 ```text
 Start small.
