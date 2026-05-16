@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=MD%20Sajid%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%2FML%20%26%20LLM%20Developer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=MD%20Sajid%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20ML%20and%20LLM%20Developer&descAlignY=58&descSize=18" />
 
 # Hi, I'm MD Sajid Rahman 👋
 
@@ -8,7 +8,7 @@
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Final+Semester+CSE+Student;Aspiring+AI%2FML+%26+LLM+Developer;Learning+Python+from+the+Basics;Building+Real-Life+Problem-Solving+Projects;Sharing+My+Learning+Journey+for+Beginners)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Final+Semester+CSE+Student;Aspiring+AI+ML+and+LLM+Developer;Learning+Python+from+the+Basics;Building+Real-Life+Problem-Solving+Projects;Sharing+My+Learning+Journey+for+Beginners)](https://git.io/typing-svg)
 
 </div>
 
