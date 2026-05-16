@@ -2,7 +2,7 @@
 
 # Hi, I'm MD Sajid Rahman 👋
 
-<img src="./assets/profile.png" width="180" alt="MD Sajid Rahman" />
+<img src="./assets/profile.jpg" width="180" alt="MD Sajid Rahman" />
 
 <br />
 <br />
