@@ -1,11 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=MD%20Sajid%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%2FML%20%26%20LLM%20Developer&descAlignY=58&descSize=18" />
+
 # Hi, I'm MD Sajid Rahman 👋
 
 <img src="./assets/profile.jpg" width="180" alt="MD Sajid Rahman" />
 
-<br />
-<br />
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Final+Semester+CSE+Student;Aspiring+AI%2FML+%26+LLM+Developer;Learning+Python+from+the+Basics;Building+Real-Life+Problem-Solving+Projects;Sharing+My+Learning+Journey+for+Beginners)](https://git.io/typing-svg)
 
@@ -30,7 +31,6 @@ My goal is to become an **AI/ML Engineer or LLM Application Developer** by learn
 <td width="50%">
 
 ### Learning Now
-
 - Python Programming  
 - Problem Solving  
 - Data Analysis Basics  
@@ -41,7 +41,6 @@ My goal is to become an **AI/ML Engineer or LLM Application Developer** by learn
 <td width="50%">
 
 ### Exploring Next
-
 - LLM Applications  
 - RAG Systems  
 - AI Chatbots  
@@ -107,18 +106,14 @@ The purpose of this challenge is not only to learn Python, but also to help othe
 <td width="50%">
 
 ### 🧠 CodeViva AI
-
-A Python + Streamlit app that generates viva/interview questions from uploaded Python code files.
-
+A Python + Streamlit app that generates viva/interview questions from uploaded Python code files.  
 🔗 [View Repository](https://github.com/MdSajidRahman23/codeviva-ai)
 
 </td>
 <td width="50%">
 
 ### 🛡️ ScholarShield AI
-
-A Python + Streamlit app that checks scam risk in scholarship, internship, and job opportunity posts.
-
+A Python + Streamlit app that checks scam risk in scholarship, internship, and job opportunity posts.  
 🔗 [View Repository](https://github.com/MdSajidRahman23/scholarshield-ai)
 
 </td>
@@ -128,18 +123,14 @@ A Python + Streamlit app that checks scam risk in scholarship, internship, and j
 <td width="50%">
 
 ### ⏰ DeadlineGuardian AI
-
-A Python + Streamlit app that turns messy notices and messages into action items with deadlines.
-
+A Python + Streamlit app that turns messy notices and messages into action items with deadlines.  
 🔗 [View Repository](https://github.com/MdSajidRahman23/deadlineguardian-ai)
 
 </td>
 <td width="50%">
 
 ### 🐍 Python to AI Journey
-
-A 30-day beginner-friendly Python learning challenge with real-life mini projects.
-
+A 30-day beginner-friendly Python learning challenge with real-life mini projects.  
 🔗 [View Repository](https://github.com/MdSajidRahman23/30-day-basic-python-to-ai-journey)
 
 </td>
@@ -153,8 +144,21 @@ A 30-day beginner-friendly Python learning challenge with real-life mini project
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MdSajidRahman23&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdSajidRahman23&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MdSajidRahman23&theme=tokyonight&hide_border=true" width="60%" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Sajid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MdSajidRahman23&theme=tokyo-night&hide_border=true)](https://github.com/MdSajidRahman23)
 
 </div>
 
